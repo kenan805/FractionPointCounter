@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\HomeworkClassFirst.exe
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\HomeworkClassFirst.deps.json
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\HomeworkClassFirst.runtimeconfig.json
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\HomeworkClassFirst.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\HomeworkClassFirst.dll
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\ref\HomeworkClassFirst.dll
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\bin\Debug\net5.0\HomeworkClassFirst.pdb
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.dll
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\ref\HomeworkClassFirst.dll
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.pdb
+C:\Users\user\source\repos\HomeworkClassFirst\HomeworkClassFirst\obj\Debug\net5.0\HomeworkClassFirst.genruntimeconfig.cache
