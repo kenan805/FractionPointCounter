@@ -23,7 +23,7 @@ namespace HomeworkClassFirst
 
         public void ShowData()
         {
-            Console.WriteLine($"X: {X}\nY: {Y}");
+            Console.WriteLine($"X: {X} \nY: {Y}");
         }
     }
 }
